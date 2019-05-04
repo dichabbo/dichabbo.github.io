@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
-    <version>1.0.0.1</version>
+    <version>1.0.0.2</version>
     <url>https://github.com/dichabbo/AplicadorAulas/releases/download/v1.0.0.1/Setup.exe</url>
     <changelog>https://github.com/dichabbo/AplicadorAulas/releases</changelog>
     <mandatory mode="2">true</mandatory>
